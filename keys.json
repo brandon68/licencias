@@ -12,5 +12,15 @@
   "BRANDONARANA68": {
     "dias": 10000,
     "fecha_inicio": "2026-04-20"
+  },
+
+  "KEYSIQUEIRO": {
+    "dias": 15,
+    "fecha_inicio": "2026-05-07"
+  },
+
+  "KEYNUEVA002": {
+    "dias": 15,
+    "fecha_inicio": "2026-05-07"
   }
 }
